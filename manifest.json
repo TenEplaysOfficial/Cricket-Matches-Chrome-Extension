@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Cricket Matches",
+  "version": "1.0.0",
+  "description": "A extension for Cricket Matches updates",
+  "author": "Name",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Cricket Matches"
+  }
+}
